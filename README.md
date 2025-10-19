@@ -103,7 +103,6 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 
----
 
 
 
@@ -116,7 +115,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 [![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h2300032619)
 [![codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kl_2300032619)
 
-
+---
 ## 🔗 Connect With Me
 
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://my-portfolio.com) -->
