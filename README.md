@@ -17,32 +17,89 @@ When I’m not coding, you’ll find me learning new frameworks, experimenting w
 
 
 
+--- 
+## 🎓Education
+
+- **BTech ——**  Koneru Lakshmaih University (KLU)  &emsp;|&emsp; CGPA : 9.24 (Present)
+- **Intermediate ——**  Narayana Junior Collage &emsp;|&emsp; Percentage : 90%
+- **Class 10nth ——**  Sri Chaitanya Techno School &emsp;|&emsp; Percentage : 100%
+
+
+
 ---
 ## 🛠️ SKILLS
 
-#### Languages
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+#### Languages :
+C  · Java · JavaScript
+<!-- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+ -->
+
+#### FRONTEND : 
+React · HTML · CSS · TailwindCSS · BootStrap · MaterialUI · Vite · Framer
+<!-- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /> -->
 
 
-#### FRONTEND
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />   <img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />   <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />   <img src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />   <img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+#### BACKEND : 
+SpringBoot · Node.js · Express.js
+<!-- <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> -->
 
 
-#### BACKEND
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+
+#### DATABASE : 
+MongoDB · MySQL · PostgreSQL · Firebase · Supabase
+<!-- <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> -->
+
+#### CLOUD & DevOps : 
+AWS · GCP · Azure  · Docker · Kubernetes
+<!-- <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> -->
+
+#### TOOLS & OTHERS : 
+GIT · GitHub · VS - CODE · Figma · HuggingFace
+<!-- <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /> -->
 
 
 
-#### DATABASE
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />   
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />   <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 
-#### CLOUD
-<img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />   <img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+---
+## Projects
 
-#### TOOLS & OTHERS
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />   <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
+- **Prompt 2 Paint** —— [Prompt 2 Paint](https://prompt2paint.vercel.app)
+- **Journey with Jobs** —— Connects Job seekers to Employers
+- **Smart Track** —— Smart Expense/ Budget Tracker
 
+
+
+---
+## Certifications
+
+- **Microsoft Azure**  —— [Az-900](https://github.com/Anas-Sd/CERTIFICATES/blob/main/MICROSOFT%20AZURE%20AZ-900%20CERTIFICATE.pdf)
+- **Oracle**  —— [Foundations Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Oracle%20Certified%20Foundations%20Associate%20Certificate.pdf)
+- **RPA**  —— [Essentials Automation Professional](https://github.com/Anas-Sd/CERTIFICATES/blob/main/RPA%20Certified%20Essentials%20Automation%20Professional%20Certificate.pdf)
+- **AIML Virtual Internship**  —— [Provided by AWS in EduSkills](https://github.com/Anas-Sd/CERTIFICATES/blob/main/SYED%20ANAS%20AWS%20AIML%20VIRTUAL%20INTERNSHIP.pdf)
+- **Salesforce**  —— [AI Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Salesforce%20Certified%20AI%20Associate%20Certificate.pdf)
+- **Salesforce Agentforce** —— [AI-201 Agentforce Specialist](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Salesforce%20Certified%20Agentforce%20Specialist%20AI-201%20Certificate.pdf)
 
 
 
@@ -53,19 +110,19 @@ When I’m not coding, you’ll find me learning new frameworks, experimenting w
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge)](https://linkedin.com/in/-syedanas)
 [![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
 [![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Sd)
-[![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/your-facebook-username)
-[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
-[![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username)
+[![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sd.anas.35)
+[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.__.imperfect/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username) -->
 
 
 
 ---
 ##  🎓 My Coding Profiles
 
-[![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/your-leetcode-username)
-[![codechef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-codechef-username)
-[![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-hackerrank-username)
-[![codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/your-codeforces-username)
+[![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/2300032619/)
+[![codechef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_2300032619)
+[![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h2300032619)
+[![codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kl_2300032619)
 
 
 
