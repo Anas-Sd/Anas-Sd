@@ -83,7 +83,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 ---
-## Projects
+🗃️ ## Projects
 
 - **Prompt 2 Paint** —— [Prompt 2 Paint](https://prompt2paint.vercel.app)
 - **Journey with Jobs** —— Connects Job seekers to Employers
@@ -92,7 +92,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 ---
-## Certifications
+🏆 ## Certifications
 
 - **Microsoft Azure**  —— [Az-900](https://github.com/Anas-Sd/CERTIFICATES/blob/main/MICROSOFT%20AZURE%20AZ-900%20CERTIFICATE.pdf)
 - **Oracle**  —— [Foundations Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Oracle%20Certified%20Foundations%20Associate%20Certificate.pdf)
@@ -104,15 +104,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 ---
-## 🔗 Connect With Me
 
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://my-portfolio.com) -->
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge)](https://linkedin.com/in/-syedanas)
-[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Sd)
-[![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sd.anas.35)
-[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.__.imperfect/)
-<!-- [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username) -->
 
 
 
@@ -123,6 +115,17 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 [![codechef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_2300032619)
 [![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h2300032619)
 [![codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kl_2300032619)
+
+
+## 🔗 Connect With Me
+
+<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://my-portfolio.com) -->
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge)](https://linkedin.com/in/-syedanas)
+[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
+[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Sd)
+[![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sd.anas.35)
+[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.__.imperfect/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username) -->
 
 
 
