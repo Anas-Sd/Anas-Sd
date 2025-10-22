@@ -83,7 +83,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 ---
-🗃️ ## Projects
+## 🗃️ Projects
 
 - **Prompt 2 Paint** —— [Prompt 2 Paint](https://prompt2paint.vercel.app)
 - **Journey with Jobs** —— Connects Job seekers to Employers
@@ -92,7 +92,7 @@ GIT · GitHub · VS - CODE · Figma · HuggingFace
 
 
 ---
-🏆 ## Certifications
+## 🏆 Certifications
 
 - **Microsoft Azure**  —— [Az-900](https://github.com/Anas-Sd/CERTIFICATES/blob/main/MICROSOFT%20AZURE%20AZ-900%20CERTIFICATE.pdf)
 - **Oracle**  —— [Foundations Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Oracle%20Certified%20Foundations%20Associate%20Certificate.pdf)
