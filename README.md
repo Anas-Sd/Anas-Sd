@@ -161,14 +161,15 @@ if (idea) {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anas-Sd&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Sd&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anas-Sd&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Anas-Sd&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Sd&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Sd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
+
 
 
 ---
@@ -186,8 +187,9 @@ if (idea) {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Sd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Sd&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </div>
+
 
 
 ---
@@ -195,14 +197,13 @@ if (idea) {
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
+  </picture>
 </div>
+
 
 ---
 
@@ -238,7 +239,7 @@ if (idea) {
 
 <br/>
 
-### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
+### 💬 "In the world of code, DSA is my weapon."
 
 </div>
 
@@ -248,6 +249,6 @@ if (idea) {
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&animation=twinkling"/>
 
-**⭐ From [Anas-Sd](https://github.com/Anas-Sd) with ❤️**
+**⭐ From [SYED ANAS](https://github.com/Anas-Sd) with ❤️**
 
 </div>
