@@ -1,6 +1,6 @@
 ## Hi, 👋 I'm Syed Anas
 
-💻 AI & Full-Stack Developer | Specializing in Cloud-Native Deployments
+💻 Software Development Engineer | Full Stack & AI-Powered Applications
 
 
 
