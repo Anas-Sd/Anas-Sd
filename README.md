@@ -1,135 +1,253 @@
-## Hi, 👋 I'm Syed Anas
+<div align="center">
 
-💻 Software Development Engineer | Full Stack & AI-Powered Applications
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=180&section=header&color=gradient&customColorList=9,6,12&text=Syed%20Anas&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20%7C%20AI-Powered%20Applications&descSize=18&descAlignY=60"/>
+
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=600&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=120&lines=%F0%9F%9A%80+Full+Stack+Developer;%F0%9F%A4%96+AI-Powered+Applications;%F0%9F%92%A1+From+Idea+to+Production%2C+End+to+End" alt="Typing SVG" />
+
+
+<br/>
+
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D9FF?style=for-the-badge)](https://syedanas.me)
+[![Prompt2Paint](https://img.shields.io/badge/🎨_Prompt2Paint-Live_Demo-FF6B6B?style=for-the-badge)](https://prompt2paint.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-syedanas)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Anas-Sd&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<a href="https://github.com/Anas-Sd?tab=followers">
+  <img src="https://img.shields.io/github/followers/Anas-Sd?style=for-the-badge&color=00D9FF&labelColor=1a1b27&logo=github" alt="Followers"/>
+</a>
+
+</div>
+
+---
+
+## 🧬 Who Am I?
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+Hey there! I'm **Syed Anas** — a builder who turns caffeine into code ☕→💻
+
+I'm a **B.Tech CSE** student at **Koneru Lakshmaiah University (KLU)** with a mission to bridge the gap between **Full-Stack Development** and **Artificial Intelligence**.
+
+I don't just write code — I craft experiences. From designing sleek frontends to engineering robust backends, I obsess over every pixel and every API response.
+
+### 🎯 What drives me:
+
+- 🏗️ **Building products end-to-end** — idea → design → code → deploy → iterate
+- 🤖 **Infusing AI into real apps** — like [Prompt2Paint](https://prompt2paint.vercel.app), my AI-powered text-to-image generator
+- ⚡ **Performance & clean architecture** — because slow code is broken code
+- 🌱 **Never stopping learning** — currently diving deeper.
+
+<!-- <details>
+<summary>⚡ More about me</summary>
+<br> -->
+
+```javascript
+const syed_anas = {
+    role: "Software Development Engineer",
+    focus: ["Full-Stack Dev", "AI-Powered Applications"],
+    education: "B.Tech CSE @ KLU (2023-2027)",
+    languages: ["English", "Hindi", "Urdu", "Japanese", "Telugu"],
+    superpower: "Turning complex problems into simple, elegant solutions",
+    openTo: ["Freelancing", "Internships", "Full-Time Roles"],
+    funFact: "I mass mass ah enjoy panren 🎬"
+};
+
+if (idea) {
+  const product = design(idea)
+    .then(develop)
+    .then(deploy)
+    .then(iterate);
+    
+  return product;
+}
+
+```
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧠 Core CS
+![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=for-the-badge&logo=leetcode&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-00D9FF?style=for-the-badge&logo=java&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-8B5CF6?style=for-the-badge&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/RESTful_APIs-10B981?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### 🎨 Designing
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Thunder Client](https://img.shields.io/badge/Thunder_Client-4B32C3?style=for-the-badge&logo=thunderclient&logoColor=white)
+
+</div>
+
+---
+
+## 🎖️ Certifications
+
+<div align="center">
+
+| | Certification | Issuer | Verify |
+|:---:|:---|:---|:---|
+| <img src="https://img.shields.io/badge/-FF6B6B?style=flat-square&logo=codeforces&logoColor=white" width="40"/> | **Smart Coder** | Smart Interviews | [Verify here](https://smartinterviews.in/certificate/1790888a) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="40"/> | **AZ-900 — Azure Fundamentals** | Microsoft | [Verify here](https://www.credly.com/badges/589abeb6-378f-488f-91bd-5ff17b0f696f/public_url) |
+| <img src="https://www.mongodb.com/assets/images/global/favicon.ico" width="40"/> | **Certified Associate Developer** | MongoDB | [Verify here](https://www.credly.com/badges/b2944f0c-4aa5-4c54-bd31-21640f853f7b/public_url) |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40"/> | **Oracle Certified Foundations Associate** | Oracle | [Verify here](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E1FC30BEADE4EB64ABAA681873D89B5A7AB3BEE46918EF5144312E31C6426A1A) |
+| <img src="https://img.shields.io/badge/-00A1E0?style=flat-square&logo=salesforce&logoColor=white" width="40"/> | **AI & Cloud Associate** | Salesforce | [Verify here](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Salesforce%20Certified%20AI%20Associate%20Certificate.pdf) |
+| <img src="https://img.shields.io/badge/-1D70B8?style=flat-square&logo=cambridge&logoColor=white" width="40"/> | **Linguaskill — By Cambridge University** | Cambridge | [Verify here](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Lingua%20Skill%20Certification%20and%20Test%20Report.pdf) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+[![Prompt2Paint](https://img.shields.io/badge/🎨_Prompt2Paint-AI_Text_to_Image-FF6B6B?style=for-the-badge)](https://prompt2paint.vercel.app)
+[![Quran App](https://img.shields.io/badge/📖_Quran_App-Islamic_Resource-10B981?style=for-the-badge)](https://github.com/Anas-Sd)
+[![Portfolio](https://img.shields.io/badge/🌐_Personal_Portfolio-Showcase-00D9FF?style=for-the-badge)](https://www.syedanas.me/)
+[![Flip The Card](https://img.shields.io/badge/🃏_Flip_The_Card-Memory_Game-F59E0B?style=for-the-badge)](https://flip2win.vercel.app/)
+
+</div>
+
+<details>
+<summary><b>📋 Project Details (click to expand)</b></summary>
+<br/>
+
+| # | Project | Description | Tech |
+|:-:|:--------|:------------|:-----|
+| 🎨 | **Prompt2Paint** | AI-powered Text-to-Image Generator — type a prompt, get art | React, Node.js, AI APIs |
+| 📖 | **Quran App** | Digital Quran reading & exploration tool | Web Technologies |
+| 🌐 | **Personal Portfolio** | Showcase of skills, projects & experience | React, Tailwind |
+| 🃏 | **Flip The Card** | Interactive memory card game | JavaScript, CSS |
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anas-Sd&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anas-Sd&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-Sd&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 
 ---
-## 🚀 About Me
 
-An Aspiring Full-Stack Developer pursuing Btech, Computer Science and engineering in Koneru Lakshmaih University(KLU). Who loves building modern, scalable, and user-friendly applications.
+## 📈 Contribution Graph
 
-So far, I’ve developed multiple projects such as AI-powered Text-to-Image Generator and a smart Budget Tracker using technologies like React, Node.js, Express, MongoDB, SpringBoot and MySQL.
+<div align="center">
 
-I Enjoy taking an idea from scratch and turning it into a live product — focusing on performance, security, and clean user experience. I’m also curious about integrating AI and cloud tools like AWS, Azurre, GCp, Salesforce into real-world applications.
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anas-Sd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" alt="Activity Graph"/>
 
-When I’m not coding, you’ll find me learning new frameworks, experimenting with the latest tech trends, or collaborating with peers on innovative projects.
+</div>
 
+---
 
+## 🏆 GitHub Trophies
 
---- 
-## 🎓Education
-
-- **BTech ——**  Koneru Lakshmaih University (KLU)  &emsp;|&emsp; CGPA : 9.24 (Present)
-- **Intermediate ——**  Narayana Junior Collage &emsp;|&emsp; Percentage : 90%
-- **Class 10nth ——**  Sri Chaitanya Techno School &emsp;|&emsp; Percentage : 100%
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Anas-Sd&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+</div>
 
 
 ---
-## 🛠️ SKILLS
 
-#### Languages :
-C  · Java · JavaScript
-<!-- <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
- -->
+## 🐍 Contribution Snake
 
-#### FRONTEND : 
-React · HTML · CSS · TailwindCSS · BootStrap · MaterialUI · Vite · Framer
-<!-- <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-<img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Material%20UI-000000?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-<img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" /> -->
+<div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Anas-Sd/Anas-Sd/output/github-snake.svg" />
+</picture>
 
-#### BACKEND : 
-SpringBoot · Node.js · Express.js
-<!-- <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> -->
-
-
-
-#### DATABASE : 
-MongoDB · MySQL · PostgreSQL · Firebase · Supabase
-<!-- <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" /> -->
-
-#### CLOUD & DevOps : 
-AWS · GCP · Azure  · Docker · Kubernetes
-<!-- <img src="https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-<img src="https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> -->
-
-#### TOOLS & OTHERS : 
-GIT · GitHub · VS - CODE · Figma · HuggingFace
-<!-- <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" /> -->
-
-
-
+</div>
 
 ---
-## 🗃️ Projects
 
-- **Prompt 2 Paint** —— [Prompt 2 Paint](https://prompt2paint.vercel.app)
-- **Journey with Jobs** —— Connects Job seekers to Employers
-- **Smart Track** —— Smart Expense/ Budget Tracker
+## 📬 Let's Connect!
 
+<div align="center">
 
+<a href="https://www.linkedin.com/in/-syedanas">
+  <img src="https://img.shields.io/badge/LinkedIn-Syed_Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Anas-Sd">
+  <img src="https://img.shields.io/badge/GitHub-Anas--Sd-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:anasannu44455@gmail.com">
+  <img src="https://img.shields.io/badge/Email-anasannu44455@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
----
-## 🏆 Certifications
+<br/>
 
-- **Microsoft Azure**  —— [Az-900](https://github.com/Anas-Sd/CERTIFICATES/blob/main/MICROSOFT%20AZURE%20AZ-900%20CERTIFICATE.pdf)
-- **Oracle**  —— [Foundations Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Oracle%20Certified%20Foundations%20Associate%20Certificate.pdf)
-- **RPA**  —— [Essentials Automation Professional](https://github.com/Anas-Sd/CERTIFICATES/blob/main/RPA%20Certified%20Essentials%20Automation%20Professional%20Certificate.pdf)
-- **AIML Virtual Internship**  —— [Provided by AWS in EduSkills](https://github.com/Anas-Sd/CERTIFICATES/blob/main/SYED%20ANAS%20AWS%20AIML%20VIRTUAL%20INTERNSHIP.pdf)
-- **Salesforce**  —— [AI Associate](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Salesforce%20Certified%20AI%20Associate%20Certificate.pdf)
-- **Salesforce Agentforce** —— [AI-201 Agentforce Specialist](https://github.com/Anas-Sd/CERTIFICATES/blob/main/Salesforce%20Certified%20Agentforce%20Specialist%20AI-201%20Certificate.pdf)
+<a href="https://www.codechef.com/users/kl_2300032619">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/2300032619">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/h2300032619">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
 
+<br/><br/>
 
+📍 **India** &nbsp;|&nbsp; 🕐 **IST (UTC+5:30)** &nbsp;|&nbsp; ✅ **Open for Opportunities**
 
+<br/>
 
+### 💬 *"First, solve the problem. Then, write the code."* — John Johnson
 
-
-
----
-##  🎓 My Coding Profiles
-
-[![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/2300032619/)
-[![codechef](https://img.shields.io/badge/codechef-000000?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/kl_2300032619)
-[![hackerrank](https://img.shields.io/badge/hackerrank-000000?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/h2300032619)
-[![codeforces](https://img.shields.io/badge/codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kl_2300032619)
-
----
-## 🔗 Connect With Me
-
-<!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge)](https://my-portfolio.com) -->
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge)](https://linkedin.com/in/-syedanas)
-[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
-[![github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anas-Sd)
-[![facebook](https://img.shields.io/badge/facebook-000000?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sd.anas.35)
-[![instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_mr.__.imperfect/)
-<!-- [![twitter](https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-username) -->
-
-
+</div>
 
 ---
-## 💡 Beyond Coding
 
-**When I'm not coding** ->  
-you’ll find me learning new frameworks, experimenting with the latest tech trends, or collaborating with peers on innovative projects.
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=120&section=footer&animation=twinkling"/>
+
+**⭐ From [Anas-Sd](https://github.com/Anas-Sd) with ❤️**
+
+</div>
