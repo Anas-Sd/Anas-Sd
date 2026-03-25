@@ -31,8 +31,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 Hey there! I'm **Syed Anas** — a builder who turns caffeine into code ☕→💻
-
-I'm a **B.Tech CSE** student at **Koneru Lakshmaiah University (KLU)** with a mission to bridge the gap between **Full-Stack Development** and **Artificial Intelligence**.
+I'm a **B.Tech CSE** student at **Koneru Lakshmaiah University (KLU)** with a mission to bridge the gap between **Full-Stack Applications** integrated with **Artificial Intelligence**.
 
 I don't just write code — I craft experiences. From designing sleek frontends to engineering robust backends, I obsess over every pixel and every API response.
 
