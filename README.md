@@ -136,24 +136,21 @@ if (idea) {
 <div align="center">
 
 [![Prompt2Paint](https://img.shields.io/badge/🎨_Prompt2Paint-AI_Text_to_Image-FF6B6B?style=for-the-badge)](https://prompt2paint.vercel.app)
-[![Quran App](https://img.shields.io/badge/📖_Quran_App-Islamic_Resource-10B981?style=for-the-badge)](https://github.com/Anas-Sd)
+[![IslamiQ](https://img.shields.io/badge/📖_IslamiQ-Islamic_Resource-10B981?style=for-the-badge)](https://github.com/Anas-Sd)
 [![Portfolio](https://img.shields.io/badge/🌐_Personal_Portfolio-Showcase-00D9FF?style=for-the-badge)](https://www.syedanas.me/)
 [![Flip The Card](https://img.shields.io/badge/🃏_Flip_The_Card-Memory_Game-F59E0B?style=for-the-badge)](https://flip2win.vercel.app/)
 
 </div>
 
-<details>
-<summary><b>📋 Project Details (click to expand)</b></summary>
+
 <br/>
 
 | # | Project | Description | Tech |
 |:-:|:--------|:------------|:-----|
 | 🎨 | **Prompt2Paint** | AI-powered Text-to-Image Generator — type a prompt, get art | React, Node.js, AI APIs |
-| 📖 | **Quran App** | Digital Quran reading & exploration tool | Web Technologies |
+| 📖 | **IslamiQ** | Digital Quran reading & exploration tool | Web Technologies |
 | 🌐 | **Personal Portfolio** | Showcase of skills, projects & experience | React, Tailwind |
 | 🃏 | **Flip The Card** | Interactive memory card game | JavaScript, CSS |
-
-</details>
 
 ---
 
