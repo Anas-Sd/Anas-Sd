@@ -13,7 +13,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00D9FF?style=for-the-badge)](https://syedanas.me)
 [![Prompt2Paint](https://img.shields.io/badge/🎨_Prompt2Paint-Live_Demo-FF6B6B?style=for-the-badge)](https://prompt2paint.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-syedanas)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anasannu44455@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sdanasbtech@gmail.com)
 
 <br/>
 
@@ -214,8 +214,8 @@ if (idea) {
 <a href="https://github.com/Anas-Sd">
   <img src="https://img.shields.io/badge/GitHub-Anas--Sd-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="mailto:anasannu44455@gmail.com">
-  <img src="https://img.shields.io/badge/Email-anasannu44455@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:sdanasbtech@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sdanasbtech@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/>
